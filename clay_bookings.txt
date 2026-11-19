@@ -1,0 +1,7 @@
+member=James
+Pottery Wheel Throwing;20/11/2026;10:00
+Ceramic Glazing;21/11/2026;14:00
+Beginner Pottery;22/11/2026;11:30
+Mug Making;25/11/2026;09:30
+Bowl Making;31/11/2026;10:00
+Invalid Workshop Line
